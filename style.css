@@ -135,3 +135,18 @@ html, body {
   width: 150px;
   margin-bottom: 15px;
 }
+
+.flexer {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
